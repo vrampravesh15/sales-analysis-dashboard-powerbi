@@ -80,10 +80,8 @@ This project demonstrates skills in dashboard creation, business reporting, visu
 - Expand the dashboard for deeper business insights.
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
-![Sales Summary View](screenshots/sales-summary-view.png)
-
-![Category Performance View](screenshots/category-performance-view.png)
-
-![Filters and KPIs](screenshots/filters-kpis-view.png)
+![Sales Analysis Dahsboard](screenshots/sales-analysis-dashboard-overview.png)
+![Sales Analysis Dahsboard - Task 2](screenshots/sales-analysis-dashboard-task2.png)
+![Sales Analysis Dahsboard - Task 3](screenshots/sales-analysis-dashboard-task3.png)
+![Sales Analysis Dahsboard - Task 4](screenshots/sales-analysis-dashboard-task4.png)
+![Sales Analysis Dahsboard - Task 5](screenshots/sales-analysis-dashboard-task5.png)
