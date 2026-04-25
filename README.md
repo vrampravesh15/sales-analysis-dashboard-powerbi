@@ -54,16 +54,14 @@ sales-analysis-dashboard-powerbi/
 ├── dashboards/
 │   └── sales-analysis-dashboard.pbix
 ├── docs/
-│   ├── problem-statement.pdf
 │   ├── task-2-documentation.pdf
 │   └── task-4-documentation.pdf
 ├── screenshots/
-│   ├── dashboard-overview.png
-│   ├── sales-summary-view.png
-│   ├── category-performance-view.png
-│   └── filters-kpis-view.png
-└── assets/
-    └── project-banner.png
+│   ├── sales-analysis-dashboard-overview.png
+│   ├── sales-analysis-dashboard-task2.png
+│   ├── sales-analysis-dashboard-task3.png
+│   └── sales-analysis-dashboard-task4.png
+│   └── sales-analysis-dashboard-task5.png
 ```
 
 ## How to Use
